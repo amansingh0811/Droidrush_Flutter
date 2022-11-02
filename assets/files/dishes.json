@@ -1,0 +1,89 @@
+{ "products" : [{
+    "id" :1,
+    "name" : "French Fries",
+    "description" : "Normal French Fries",
+    "price" : 60.00,
+    "expectedTime" : "15",
+    "image" : "https://cdn.pixabay.com/photo/2016/11/20/09/06/bowl-1842294__480.jpg"
+},
+
+{
+    "id" : 2,
+    "name" : "Cheesy Fries",
+    "description" : "French Fries With Cheese",
+    "price" : 80,
+    "expectedTime" : "15",
+    "image" : "https://cdn.imgbin.com/23/6/19/imgbin-french-fries-poutine-cheese-fries-new-york-fries-canadian-cuisine-cheese-fries-fried-fries-with-cheese-and-spring-onions-XcRTDMNyc2Kp1R4HQsrg2K4Gm.jpg"
+},
+{
+    "id" : 3,
+    "name" : "Paneer Sandwich",
+    "description" : "Grilled Sandwich With Paneer",
+    "price" : 60,
+    "expectedTime" : "20",
+    "image" : "https://previews.123rf.com/images/indianfoodimages/indianfoodimages1812/indianfoodimages181203768/113866335-paneer-sandwich-using-indian-cottage-cheese-and-vegetables-and-chutney.jpg"
+},
+{
+    "id" : 4,
+    "name" : "Masala Dosa",
+    "description" : "Simple Dosa With Filling",
+    "price" : 60,
+    "expectedTime" : "10",
+    "image" : "https://img.freepik.com/premium-photo/masala-dosa-is-south-indian-meal-served-with-sambhar-coconut-chutney-selective-focus_466689-22927.jpg?w=1060"
+},
+{
+    "id" :5,
+    "name" : "Paneer Dosa",
+    "description" : "Dosa With Paneer Dosa",
+    "price" : 100,
+    "expectedTime" : "10",
+    "image" : "https://img.freepik.com/premium-photo/masala-dosa-is-south-indian-meal-served-with-sambhar-coconut-chutney-selective-focus_466689-22925.jpg?w=1060"
+},
+{
+    "id" : 6,
+    "name" : "Tomata Pizza",
+    "description" : "Pizza With Tomato Toppings",
+    "price" : 80,
+    "expectedTime" : "20",
+    "image" : "https://thumbs.dreamstime.com/z/scrumptious-fresh-cheese-tomato-pizza-overhead-view-whole-uncut-wooden-board-32955235.jpg"
+},
+{
+    "id" : 7,
+    "name" : "Paneer Pizza",
+    "description" : "Pizza With Panner Toppings",
+    "price" : 100,
+    "expectedTime" : "25",
+    "image" : "https://img.freepik.com/premium-photo/indian-paneer-pizza-with-fresh-cottage-cheese-cubes-white-sauce_466689-55630.jpg?w=2000"
+},
+{
+    "id" :8,
+    "name" : "Tea",
+    "description" : "Simple Tea",
+    "price" : 10,
+    "expectedTime" : "1",
+    "image" : "https://www.pngkey.com/png/detail/253-2533331_tea-tree-cafe-hot-tea-hot-green-tea.png"
+},
+{
+    "id" : 9,
+    "name" : "Coffee",
+    "description" : "Simple Coffee",
+    "price" : 15,
+    "expectedTime" : "1",
+    "image" : "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+},
+{
+    "id" :10,
+    "name" : "Chilly Cheese Toast",
+    "description" : "Chilly Cheese Toast",
+    "price" : 80,
+    "expectedTime" : "25",
+    "image" : "https://i.ytimg.com/vi/u86z8lEedr8/maxresdefault.jpg"
+},
+{
+    "id" : 11,
+    "name" : "Momos",
+    "description" : "Momos",
+    "price" : 50,
+    "expectedTime" : "5",
+    "image" : "http://nogluten-noproblem.com/wp-content/uploads/2013/03/20130314-20130227-IMG_3156.jpg"
+}]}
